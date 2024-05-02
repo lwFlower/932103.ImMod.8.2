@@ -1,0 +1,11 @@
+C:\Users\askJa\OneDrive\Рабочий стол\3 курс\Имитац мод\Lab8.2\Magic Ball\Magic Ball\bin\Debug\Magic Ball.exe.config
+C:\Users\askJa\OneDrive\Рабочий стол\3 курс\Имитац мод\Lab8.2\Magic Ball\Magic Ball\bin\Debug\Magic Ball.exe
+C:\Users\askJa\OneDrive\Рабочий стол\3 курс\Имитац мод\Lab8.2\Magic Ball\Magic Ball\bin\Debug\Magic Ball.pdb
+C:\Users\askJa\OneDrive\Рабочий стол\3 курс\Имитац мод\Lab8.2\Magic Ball\Magic Ball\obj\Debug\Magic Ball.csproj.AssemblyReference.cache
+C:\Users\askJa\OneDrive\Рабочий стол\3 курс\Имитац мод\Lab8.2\Magic Ball\Magic Ball\obj\Debug\Magic Ball.csproj.SuggestedBindingRedirects.cache
+C:\Users\askJa\OneDrive\Рабочий стол\3 курс\Имитац мод\Lab8.2\Magic Ball\Magic Ball\obj\Debug\Magic_Ball.Form1.resources
+C:\Users\askJa\OneDrive\Рабочий стол\3 курс\Имитац мод\Lab8.2\Magic Ball\Magic Ball\obj\Debug\Magic_Ball.Properties.Resources.resources
+C:\Users\askJa\OneDrive\Рабочий стол\3 курс\Имитац мод\Lab8.2\Magic Ball\Magic Ball\obj\Debug\Magic Ball.csproj.GenerateResource.cache
+C:\Users\askJa\OneDrive\Рабочий стол\3 курс\Имитац мод\Lab8.2\Magic Ball\Magic Ball\obj\Debug\Magic Ball.csproj.CoreCompileInputs.cache
+C:\Users\askJa\OneDrive\Рабочий стол\3 курс\Имитац мод\Lab8.2\Magic Ball\Magic Ball\obj\Debug\Magic Ball.exe
+C:\Users\askJa\OneDrive\Рабочий стол\3 курс\Имитац мод\Lab8.2\Magic Ball\Magic Ball\obj\Debug\Magic Ball.pdb
